@@ -32,6 +32,10 @@ switch (year % 12){
     case 9 : System.out.println("ular"); break;
     case 10 : System.out.println("kuda"); break;
     case 11 : System.out.println("kambing"); break;
+    case 12 : System.out.println("naga"); break;
+    case 13 : System.out.println("ular"); break;
+    case 14 : System.out.println("kuda"); break;
+    case 15 : System.out.println("kambing"); break;
     
 }
 }
